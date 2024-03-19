@@ -1,1 +1,1 @@
-vim.api.nvim_set_var('encoding', 'utf-8')
+-- vim.api.nvim_set_var('encoding', 'utf-8')
